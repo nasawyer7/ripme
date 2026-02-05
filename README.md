@@ -1,5 +1,4 @@
 # ripme
 A kernel webserver that lets you control the RIP register
 
-
-![video](show.mp4)
+![show](https://github.com/nasawyer7/ripme/blob/main/show.mov)
