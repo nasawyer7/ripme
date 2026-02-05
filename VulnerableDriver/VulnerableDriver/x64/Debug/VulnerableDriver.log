@@ -1,0 +1,5 @@
+﻿  Building 'VulnerableDriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Windows Driver' target platform.
+  Stamping x64\Debug\VulnerableDriver.inf
+  Stamping [Version] section with DriverVer=02/04/2026,22.11.22.624
+  Assembling drvassem.asm...
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\drvassem.obj" /W3 /errorReport:prompt  /Tadrvassem.asm" exited with code 1.

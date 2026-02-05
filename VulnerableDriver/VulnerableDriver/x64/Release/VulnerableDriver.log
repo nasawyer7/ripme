@@ -1,0 +1,16 @@
+﻿  Building 'VulnerableDriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Release\VulnerableDriver.inf
+  Stamping [Version] section with DriverVer=02/05/2026,10.0.22.1
+  main.cpp
+  VulnerableDriver.vcxproj -> C:\Users\nathan\Downloads\VulnerableDriver\VulnerableDriver\x64\Release\VulnerableDriver.sys
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\nathan\Downloads\VulnerableDriver\VulnerableDriver\x64\Release\VulnerableDriver\vulnerabledriver.cat
