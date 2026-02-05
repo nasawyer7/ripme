@@ -4,6 +4,8 @@ A kernel webserver that lets you control the RIP register
 https://github.com/user-attachments/assets/a9cbc91b-ee7b-4eb4-9c37-d7176ee548e7
 
 Worse Avaliability on a webserver ever! Includes a power cycle button as well if the blue screen does not auto reboot. 
+Currently hosting at https://ripme.nathan2.com
+I do not know how long this will stay up for! Video is here as proof that it worked at some point. 
 
 # How to self host
 Warning: this is a mess of python scripts and requires a second windows computer to be up at all times. It works for me! It probably won't for you. 
